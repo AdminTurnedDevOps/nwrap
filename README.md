@@ -6,7 +6,7 @@
 
 A wrapper around `nmap` that exposes three commands. One to scan a specific IP, one to scan a specific range, and one to scan open ports.
 
-## How To Use
+## Command Examples
 
 There are four commands available:
 ✅ `ipport` - Scan one IP address to see if a port of your choosing is exposed.
